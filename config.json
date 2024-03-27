@@ -1,0 +1,33 @@
+{
+    "bot_token": "MTIyMTcyMjY1FoLQ",
+    "bot_status": "discord.gg/astranitros",
+    "capmonster_key": "e7f07507c5c91fc60236d1e4bc2ebda1",
+    "proxyless": true,
+    "sellpass_api_key": "eyJhb4",
+    "field_name_invite": "Invite",
+    "change_server_nick": true,
+    "change_server_bio": true,
+    "change_name": true,
+    "change_booster_pfp": true,
+    "field_name_nick": "Nickname",
+    "field_name_bio": "Bio",
+    "server_nick": ".gg/astranitos",
+    "server_bio": "Join -  https://discord.gg/astranitros/nFor Cheap Server Boosts  Nitro , OTT And More",
+    "guildID": 1221395934059954230,
+    "ownerID": [
+        1193923455503048755,
+        838461307363393556,
+        692037157451202692,
+        806791617491107880,
+        1193923455503048755
+    ],
+    "adminID": [
+        1154808437243396138,
+        806791617491107880,
+        838461307363393556,
+        1193923455503048755
+    ],
+    "order_log_webhook": "https://disc30568/nEvKwDY8HHGxHUg",
+    "boost_log_webhook": "https://discord.com/api/webhooks/11970928p0iQw3PhB",
+    "boost_failed_log_webhook": "https://discord.com/api/wEh9U"
+}

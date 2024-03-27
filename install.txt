@@ -1,0 +1,6 @@
+datetime
+discord
+requests
+
+httpx
+tls_client
